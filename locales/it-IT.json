@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "il limite deve essere maggiore di zero",
+      "nil_hasher": "hasher non può essere nullo",
+      "seed_hash_failed": "calcolo hash seed fallito",
+      "state_update_failed": "calcolo hash aggiornamento stato fallito"
+    }
+  }
+}

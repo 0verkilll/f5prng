@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound শূন্যতকৈ ডাঙৰ হ\u0026#39;ব লাগিব",
+      "nil_hasher": "hasher nil হ\u0026#39;ব নোৱাৰে",
+      "seed_hash_failed": "বীজ হেচ গণনা ব্যৰ্থ",
+      "state_update_failed": "অৱস্থা আপডেইট হেচ গণনা ব্যৰ্থ"
+    }
+  }
+}

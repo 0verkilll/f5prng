@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "meja mora biti večja od nič",
+      "nil_hasher": "hasher ne more biti nič",
+      "seed_hash_failed": "Izračun zgoščene vrednosti semena ni uspel",
+      "state_update_failed": "Izračun zgoščene vrednosti posodobitve stanja ni uspel"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "chegara noldan katta bo\u0026#39;lishi kerak",
+      "nil_hasher": "hasher nolga teng bo\u0026#39;lishi mumkin emas",
+      "seed_hash_failed": "urug\u0026#39; xeshini hisoblashda xatolik yuz berdi",
+      "state_update_failed": "holat yangilanishi xeshini hisoblashda xatolik yuz berdi"
+    }
+  }
+}

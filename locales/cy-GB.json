@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "rhaid i\u0026#39;r rhwym fod yn fwy na sero",
+      "nil_hasher": "ni all hasher fod yn ddim",
+      "seed_hash_failed": "methodd cyfrifiad hash hadau",
+      "state_update_failed": "Methodd cyfrifiad hash diweddariad cyflwr"
+    }
+  }
+}

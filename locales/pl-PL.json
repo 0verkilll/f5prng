@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "granica musi być większa od zera",
+      "nil_hasher": "hasher nie może być zerem",
+      "seed_hash_failed": "obliczenie skrótu nasion nie powiodło się",
+      "state_update_failed": "obliczenie skrótu aktualizacji stanu nie powiodło się"
+    }
+  }
+}

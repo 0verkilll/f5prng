@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "watesna kedah langkung ageung tibatan nol",
+      "nil_hasher": "hasher teu tiasa nol",
+      "seed_hash_failed": "itungan hash siki gagal",
+      "state_update_failed": "itungan hash apdet kaayaan gagal"
+    }
+  }
+}

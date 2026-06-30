@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "limita trebuie să fie mai mare decât zero",
+      "nil_hasher": "hash-ul nu poate fi nil",
+      "seed_hash_failed": "Calculul hash-ului inițial a eșuat",
+      "state_update_failed": "Calculul hash al actualizării stării a eșuat"
+    }
+  }
+}

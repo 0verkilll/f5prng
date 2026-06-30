@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "moeli o tlameha ho ba moholo ho feta lefela",
+      "nil_hasher": "hasher e ke ke ea ba lefeela",
+      "seed_hash_failed": "Palo ea hash ea peo e hlōlehile",
+      "state_update_failed": "Palo ea hash ea ntlafatso ea mmuso e hlōlehile"
+    }
+  }
+}

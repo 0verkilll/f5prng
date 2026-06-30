@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "界限必須大於零",
+      "nil_hasher": "哈希值不能為零",
+      "seed_hash_failed": "種子哈希計算失敗",
+      "state_update_failed": "狀態更新哈希計算失敗"
+    }
+  }
+}

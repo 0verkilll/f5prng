@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "robežai jābūt lielākai par nulli",
+      "nil_hasher": "hasher nevar būt nulle",
+      "seed_hash_failed": "sēklas jaucējkoda aprēķināšana neizdevās",
+      "state_update_failed": "stāvokļa atjaunināšanas jaucējkoda aprēķināšana neizdevās"
+    }
+  }
+}

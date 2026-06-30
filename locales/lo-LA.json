@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "ຂອບເຂດຕ້ອງຫຼາຍກວ່າສູນ",
+      "nil_hasher": "hasher ບໍ່ສາມາດເປັນສູນໄດ້",
+      "seed_hash_failed": "ການຄິດໄລ່ seed hash ລົ້ມເຫຼວ",
+      "state_update_failed": "ການຄິດໄລ່ hash ການອັບເດດສະຖານະລົ້ມເຫຼວ"
+    }
+  }
+}

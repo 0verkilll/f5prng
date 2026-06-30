@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "u limite deve esse più grande di zeru",
+      "nil_hasher": "u hash ùn pò esse nullu",
+      "seed_hash_failed": "u calculu di u hash di semente hà fiascatu",
+      "state_update_failed": "u calculu di hash di l\u0026#39;aghjurnamentu di u statu hà fiascatu"
+    }
+  }
+}

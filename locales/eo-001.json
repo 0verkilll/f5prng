@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "la limo devas esti pli granda ol nulo",
+      "nil_hasher": "haŝisto ne povas esti nula",
+      "seed_hash_failed": "kalkulo de semhaŝo malsukcesis",
+      "state_update_failed": "kalkulo de haŝo pri ĝisdatigo de stato malsukcesis"
+    }
+  }
+}

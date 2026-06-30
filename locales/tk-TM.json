@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "çäklendirme noldan uly bolmaly",
+      "nil_hasher": "heşer nol bolup bilmez",
+      "seed_hash_failed": "tohum heş hasaplamasy başa barmady",
+      "state_update_failed": "ýagdaý täzelenme heş hasaplamasy başa barmady"
+    }
+  }
+}

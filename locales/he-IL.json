@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "הגבול חייב להיות גדול מאפס",
+      "nil_hasher": "השר לא יכול להיות אפס",
+      "seed_hash_failed": "חישוב ה-seed hash נכשל",
+      "state_update_failed": "חישוב ה-hash של עדכון המצב נכשל"
+    }
+  }
+}

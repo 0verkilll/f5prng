@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "me nui ake te here i te kore",
+      "nil_hasher": "kāore e taea te kore te hasher",
+      "seed_hash_failed": "i rahua te tatau i te hash purapura",
+      "state_update_failed": "i rahua te tatau i te whakahōunga āhua"
+    }
+  }
+}

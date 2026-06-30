@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "kufiri duhet të jetë më i madh se zero",
+      "nil_hasher": "hasher nuk mund të jetë zero",
+      "seed_hash_failed": "Llogaritja e hash-it të farës dështoi",
+      "state_update_failed": "Llogaritja e hash-it të përditësimit të gjendjes dështoi"
+    }
+  }
+}

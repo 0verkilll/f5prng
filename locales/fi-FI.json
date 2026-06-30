@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "rajan on oltava suurempi kuin nolla",
+      "nil_hasher": "hasher ei voi olla nolla",
+      "seed_hash_failed": "siemenhajautuksen laskenta epäonnistui",
+      "state_update_failed": "tilapäivityksen tiivisteen laskenta epäonnistui"
+    }
+  }
+}

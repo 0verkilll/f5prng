@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "finis maior quam nihil esse debet",
+      "nil_hasher": "hash non potest esse nullus",
+      "seed_hash_failed": "Computatio dispersionis seminis defecit",
+      "state_update_failed": "Computatio dispersa renovationis status defecit"
+    }
+  }
+}

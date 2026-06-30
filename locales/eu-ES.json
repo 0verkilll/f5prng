@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "muga zero baino handiagoa izan behar da",
+      "nil_hasher": "hashterra ezin da zero izan",
+      "seed_hash_failed": "hazi-hash kalkuluak huts egin du",
+      "state_update_failed": "egoeraren eguneratze hash kalkuluak huts egin du"
+    }
+  }
+}

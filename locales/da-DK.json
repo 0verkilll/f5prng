@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "grænsen skal være større end nul",
+      "nil_hasher": "hasheren kan ikke være nul",
+      "seed_hash_failed": "Beregning af seed hash mislykkedes",
+      "state_update_failed": "Hashberegning af tilstandsopdatering mislykkedes"
+    }
+  }
+}

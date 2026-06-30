@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "piir peab olema suurem kui null",
+      "nil_hasher": "rässer ei saa olla null",
+      "seed_hash_failed": "seemneräsi arvutamine ebaõnnestus",
+      "state_update_failed": "oleku värskenduse räsi arvutamine ebaõnnestus"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "baund fɔ big pas ziro",
+      "nil_hasher": "hasher nɔ kin bi nil",
+      "seed_hash_failed": "sid hash kɔmpyutishɔn nɔ bin wok",
+      "state_update_failed": "stet ɔpdet hash kɔmpyutishɔn nɔ bin wok"
+    }
+  }
+}

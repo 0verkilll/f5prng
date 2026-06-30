@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound zeeroo caalaa ta’uu qaba",
+      "nil_hasher": "hasher nil ta\u0026#39;uu hin danda\u0026#39;u",
+      "seed_hash_failed": "shallaggiin haashii sanyii hin milkoofne",
+      "state_update_failed": "shallaggiin haashiin fooyya\u0026#39;iinsa haalaa hin milkoofne"
+    }
+  }
+}

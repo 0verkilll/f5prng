@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "Xadku waa inuu ka weyn yahay eber",
+      "nil_hasher": "hasher ma noqon karo eber",
+      "seed_hash_failed": "Xisaabinta hash-ka abuurka ayaa ku guuldareysatay",
+      "state_update_failed": "xisaabinta hash-ka ee cusboonaysiinta gobolka ayaa guuldareysatay"
+    }
+  }
+}

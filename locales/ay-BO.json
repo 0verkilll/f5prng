@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound ukax cero ukat sipan juk’amp jach’äñapawa",
+      "nil_hasher": "hasher ukax janiw nil ukhamäkaspati",
+      "seed_hash_failed": "jatha hash computación ukax janiw phuqhaskiti",
+      "state_update_failed": "estado actualización hash computación ukax janiw phuqhaskiti"
+    }
+  }
+}

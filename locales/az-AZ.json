@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "sərhəd sıfırdan böyük olmalıdır",
+      "nil_hasher": "hasher sıfır ola bilməz",
+      "seed_hash_failed": "toxum heş hesablaması uğursuz oldu",
+      "state_update_failed": "vəziyyət yeniləmə heş hesablaması uğursuz oldu"
+    }
+  }
+}

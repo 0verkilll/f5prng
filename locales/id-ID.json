@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "batas harus lebih besar dari nol",
+      "nil_hasher": "hasher tidak bisa nol",
+      "seed_hash_failed": "Perhitungan hash seed gagal",
+      "state_update_failed": "Komputasi hash pembaruan status gagal."
+    }
+  }
+}

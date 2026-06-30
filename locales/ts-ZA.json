@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound yi fanele ku va yikulu ku tlula zero",
+      "nil_hasher": "hasher a yi nge vi nil",
+      "seed_hash_failed": "ku hlayela ka hash ya mbewu ku tsandzekile",
+      "state_update_failed": "state update hash computation yi tsandzekile"
+    }
+  }
+}

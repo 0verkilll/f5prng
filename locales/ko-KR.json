@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "경계값은 0보다 커야 합니다.",
+      "nil_hasher": "해셔는 0일 수 없습니다.",
+      "seed_hash_failed": "시드 해시 계산 실패",
+      "state_update_failed": "상태 업데이트 해시 계산 실패"
+    }
+  }
+}

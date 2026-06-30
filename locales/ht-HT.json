@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "limit la dwe pi gran pase zewo",
+      "nil_hasher": "hachè a pa ka nil",
+      "seed_hash_failed": "Kalkil hach grenn nan echwe",
+      "state_update_failed": "Kalkil hach aktyalizasyon eta a echwe"
+    }
+  }
+}

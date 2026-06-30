@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "grins moat grutter wêze as nul",
+      "nil_hasher": "hasher kin net nul wêze",
+      "seed_hash_failed": "sied hash berekkening mislearre",
+      "state_update_failed": "steatsupdate hashberekkening mislearre"
+    }
+  }
+}

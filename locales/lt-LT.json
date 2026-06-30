@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "riba turi būti didesnė už nulį",
+      "nil_hasher": "maišos vertė negali būti lygi nuliui",
+      "seed_hash_failed": "sėklos maišos skaičiavimas nepavyko",
+      "state_update_failed": "būsenos atnaujinimo maišos skaičiavimas nepavyko"
+    }
+  }
+}

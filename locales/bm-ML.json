@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound ka kan ka bonya ni zeru ye",
+      "nil_hasher": "hasher tɛ se ka kɛ nil ye",
+      "seed_hash_failed": "kisɛ hash jatebɔ ma ɲɛ",
+      "state_update_failed": "jamana update hash jatebɔ ma ɲɛ"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "malire ayenera kukhala oposa zero",
+      "nil_hasher": "hasher sangakhale opanda",
+      "seed_hash_failed": "kuwerengera kwa hash kwalephera",
+      "state_update_failed": "kuwerengera kwa hash kosintha boma kwalephera"
+    }
+  }
+}

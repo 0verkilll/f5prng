@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "ဘောင်ခတ်ခြင်းသည် သုညထက် ကြီးရမည်",
+      "nil_hasher": "hasher က nil မဖြစ်ရဘူး",
+      "seed_hash_failed": "seed hash တွက်ချက်မှု မအောင်မြင်ပါ",
+      "state_update_failed": "အခြေအနေ အပ်ဒိတ် ဟက်ရှ် တွက်ချက်မှု မအောင်မြင်ပါ"
+    }
+  }
+}

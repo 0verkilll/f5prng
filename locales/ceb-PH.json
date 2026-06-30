@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "ang utlanan kinahanglan nga mas dako kay sa sero",
+      "nil_hasher": "ang hasher dili mahimong nil",
+      "seed_hash_failed": "napakyas ang pagkalkula sa seed hash",
+      "state_update_failed": "napakyas ang pagkalkula sa hash sa pag-update sa estado"
+    }
+  }
+}

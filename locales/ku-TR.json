@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "divê sînor ji sifirê mezintir be",
+      "nil_hasher": "hasher nikare sifir be",
+      "seed_hash_failed": "Hesabkirina haşa tovê bi ser neket",
+      "state_update_failed": "Hesabkirina hash-a nûvekirina rewşê bi ser neket"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound ket masapul a dakdakkel ngem ti sero",
+      "nil_hasher": "saan a mabalin a nil ti hasher",
+      "seed_hash_failed": "napaay ti panagkuenta ti seed hash",
+      "state_update_failed": "napaay ti panagkuenta ti hash ti update ti estado"
+    }
+  }
+}

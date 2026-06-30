@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "tsy maintsy mihoatra ny aotra ny fetra",
+      "nil_hasher": "tsy mety ho zero ny hasher",
+      "seed_hash_failed": "tsy nahomby ny kajy ny hash voa",
+      "state_update_failed": "Tsy nahomby ny kajy hash fanavaozana ny fanjakana"
+    }
+  }
+}

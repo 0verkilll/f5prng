@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "mörk verða að vera stærri en núll",
+      "nil_hasher": "hasher getur ekki verið núll",
+      "seed_hash_failed": "Útreikningur á frækjölfum mistókst",
+      "state_update_failed": "Útreikningur á stöðuuppfærslu á kjötkássu mistókst"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "feumaidh crìoch a bhith nas motha na neoni",
+      "nil_hasher": "chan urrainn dha hasher a bhith neoni",
+      "seed_hash_failed": "dh’fhàillig àireamhachadh hash sìl",
+      "state_update_failed": "Dh’fhàillig àireamhachadh hash ùrachadh stàite"
+    }
+  }
+}

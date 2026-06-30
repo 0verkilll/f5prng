@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "ele be bound nalolo wu zero",
+      "nil_hasher": "hasher mate ŋu anye nil o",
+      "seed_hash_failed": "nuku hash ƒe akɔntabubu do kpo nu",
+      "state_update_failed": "state update hash akɔntabubu do kpo nu"
+    }
+  }
+}

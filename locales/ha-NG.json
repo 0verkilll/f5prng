@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "dole ne iyaka ta fi sifili girma",
+      "nil_hasher": "Hasher ba zai iya zama babu ba",
+      "seed_hash_failed": "An kasa lissafin hash iri",
+      "state_update_failed": "An kasa lissafin hash na sabunta jihar"
+    }
+  }
+}

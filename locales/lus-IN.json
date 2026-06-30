@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound chu zero aia lian a ni tur a ni",
+      "nil_hasher": "hasher chu nil a ni thei lo",
+      "seed_hash_failed": "seed hash computation a hlawhchham",
+      "state_update_failed": "state update hash computation a hlawhchham"
+    }
+  }
+}

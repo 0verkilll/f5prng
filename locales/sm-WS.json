@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "e tatau ona sili atu le tapula\u0026#39;a nai lo le zero",
+      "nil_hasher": "e le mafai ona leai se hasher",
+      "seed_hash_failed": "Ua le manuia le fa\u0026#39;atusatusaga o le seed hash",
+      "state_update_failed": "Ua le manuia le fa\u0026#39;atusatusaga o le hash o le fa\u0026#39;afouga o le setete"
+    }
+  }
+}

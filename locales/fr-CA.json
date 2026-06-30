@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "La borne doit être supérieure à zéro",
+      "nil_hasher": "Le hachage ne peut pas être nul.",
+      "seed_hash_failed": "Le calcul du hachage de la graine a échoué",
+      "state_update_failed": "Échec du calcul du hachage de mise à jour de l\u0026#39;état"
+    }
+  }
+}

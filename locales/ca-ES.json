@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "el límit ha de ser més gran que zero",
+      "nil_hasher": "el hash no pot ser nul",
+      "seed_hash_failed": "El càlcul del hash de llavor ha fallat",
+      "state_update_failed": "El càlcul del hash d\u0026#39;actualització d\u0026#39;estat ha fallat"
+    }
+  }
+}

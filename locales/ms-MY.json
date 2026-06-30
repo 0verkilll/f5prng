@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "terikat mesti lebih besar daripada sifar",
+      "nil_hasher": "hasher tidak boleh sifar",
+      "seed_hash_failed": "pengiraan hash benih gagal",
+      "state_update_failed": "pengiraan hash kemas kini keadaan gagal"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "ókè ga-adịrịrị karịa efu",
+      "nil_hasher": "hasher enweghị ike ịbụ efu",
+      "seed_hash_failed": "Ngụkọta hash mkpụrụ dara ada",
+      "state_update_failed": "Ngụkọta hash mmelite steeti dara ada"
+    }
+  }
+}

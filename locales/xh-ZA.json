@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "i-bound kufuneka ibe ngaphezulu kwe-zero",
+      "nil_hasher": "i-hasher ayinakuba yi-nil",
+      "seed_hash_failed": "ukubalwa kwe-seed hash akuphumelelanga",
+      "state_update_failed": "ukubala i-hash yohlaziyo lwelizwe akuphumelelanga"
+    }
+  }
+}

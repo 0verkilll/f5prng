@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound ካብ ዜሮ ክዓቢ ኣለዎ።",
+      "nil_hasher": "hasher nil ክኸውን ኣይክእልን እዩ።",
+      "seed_hash_failed": "ዘርኢ ሃሽ ስሌት ኣይተዓወተን",
+      "state_update_failed": "state update hash computation ኣይተዓወተን"
+    }
+  }
+}

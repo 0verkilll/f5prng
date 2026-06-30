@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "imipaka igomba kuba irenga zeru",
+      "nil_hasher": "hasher ntabwo ishobora kuba ntayo",
+      "seed_hash_failed": "Kubara hash y\u0026#39;imbuto byananiwe",
+      "state_update_failed": "Kubara hash kuvugurura leta byananiwe"
+    }
+  }
+}

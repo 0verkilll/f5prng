@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "ገደብ ከዜሮ በላይ መሆን አለበት",
+      "nil_hasher": "ሃሸር ዜሮ ሊሆን አይችልም",
+      "seed_hash_failed": "የዘር ሃሽ ስሌት አልተሳካም",
+      "state_update_failed": "የግዛት ዝማኔ ሃሽ ስሌት አልተሳካም"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "watasqaqa ceromanta aswan hatunmi kanan",
+      "nil_hasher": "hasher mana nil kayta atinchu",
+      "seed_hash_failed": "muhu hash yupayqa manam atirqanchu",
+      "state_update_failed": "estado musuqyachiy hash yupayqa manam atirqanchu"
+    }
+  }
+}

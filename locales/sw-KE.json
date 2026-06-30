@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "mipaka lazima iwe kubwa kuliko sifuri",
+      "nil_hasher": "hasher haiwezi kuwa sifuri",
+      "seed_hash_failed": "hesabu ya hashi ya mbegu imeshindwa",
+      "state_update_failed": "hesabu ya hash ya sasisho la serikali imeshindwa"
+    }
+  }
+}

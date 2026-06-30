@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "a határértéknek nagyobbnak kell lennie, mint nulla",
+      "nil_hasher": "a hasher nem lehet nulla",
+      "seed_hash_failed": "seed hash számítása sikertelen",
+      "state_update_failed": "Az állapotfrissítés hash-számítása sikertelen"
+    }
+  }
+}

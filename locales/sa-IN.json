@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound शून्यात् अधिकं भवितुमर्हति",
+      "nil_hasher": "hasher शून्यं न भवितुम् अर्हति",
+      "seed_hash_failed": "बीजहैशगणना विफलम् अभवत्",
+      "state_update_failed": "राज्य अद्यतन हैश गणना विफलम्"
+    }
+  }
+}

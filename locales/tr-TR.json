@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "Sınır sıfırdan büyük olmalıdır.",
+      "nil_hasher": "karma değeri boş olamaz.",
+      "seed_hash_failed": "Başlangıç karma değerinin hesaplanması başarısız oldu.",
+      "state_update_failed": "Durum güncellemesi karma hesaplaması başarısız oldu"
+    }
+  }
+}

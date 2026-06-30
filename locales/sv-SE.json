@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "gränsen måste vara större än noll",
+      "nil_hasher": "hash kan inte vara noll",
+      "seed_hash_failed": "Beräkningen av fröhash misslyckades",
+      "state_update_failed": "Hashberäkningen för tillståndsuppdatering misslyckades"
+    }
+  }
+}

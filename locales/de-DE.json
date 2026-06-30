@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "Der Wert von „bound“ muss größer als null sein.",
+      "nil_hasher": "Der Hashwert darf nicht null sein.",
+      "seed_hash_failed": "Berechnung des Seed-Hashs fehlgeschlagen",
+      "state_update_failed": "Fehler bei der Hash-Berechnung für die Statusaktualisierung"
+    }
+  }
+}

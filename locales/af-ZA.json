@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "gebonde moet groter as nul wees",
+      "nil_hasher": "hasher kan nie nul wees nie",
+      "seed_hash_failed": "saad-hash-berekening het misluk",
+      "state_update_failed": "statusopdatering hash-berekening het misluk"
+    }
+  }
+}

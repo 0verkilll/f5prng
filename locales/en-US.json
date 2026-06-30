@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound must be greater than zero",
+      "seed_hash_failed": "seed hash computation failed",
+      "state_update_failed": "state update hash computation failed",
+      "nil_hasher": "hasher cannot be nil"
+    }
+  }
+}

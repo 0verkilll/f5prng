@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "muganhu unofanira kunge wakakura kupfuura zero",
+      "nil_hasher": "hasher haigone kuva nil",
+      "seed_hash_failed": "kuverenga kwe seed hash kwakundikana",
+      "state_update_failed": "kuverenga kwe hash yekuvandudza mamiriro ehurumende kwakundikana"
+    }
+  }
+}

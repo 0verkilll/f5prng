@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "ព្រំដែនត្រូវតែធំជាងសូន្យ",
+      "nil_hasher": "hasher មិនអាចជា nil បានទេ",
+      "seed_hash_failed": "ការគណនាហាសគ្រាប់ពូជបានបរាជ័យ",
+      "state_update_failed": "ការគណនាហាសអាប់ដេតស្ថានភាពបានបរាជ័យ"
+    }
+  }
+}

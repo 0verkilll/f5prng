@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "境界は0より大きくなければなりません",
+      "nil_hasher": "ハッシュはnilにできません",
+      "seed_hash_failed": "シードハッシュの計算に失敗しました",
+      "state_update_failed": "状態更新ハッシュの計算に失敗しました"
+    }
+  }
+}

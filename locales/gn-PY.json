@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound tuichaveva’erã cero-gui",
+      "nil_hasher": "hasher ndaikatúi ha’e nil",
+      "seed_hash_failed": "pe cálculo hash semilla rehegua ndoikói",
+      "state_update_failed": "estado actualización cálculo hash ndoikói"
+    }
+  }
+}

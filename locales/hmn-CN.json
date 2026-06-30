@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "kev khi yuav tsum loj dua xoom",
+      "nil_hasher": "hasher tsis tuaj yeem yog xoom",
+      "seed_hash_failed": "kev suav cov noob hash ua tsis tau tiav",
+      "state_update_failed": "kev suav hash hloov tshiab ntawm lub xeev ua tsis tau tiav"
+    }
+  }
+}

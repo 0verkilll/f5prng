@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "il-limitu jrid ikun akbar minn żero",
+      "nil_hasher": "il-hasher ma jistax ikun nil",
+      "seed_hash_failed": "Il-kalkolu tal-hash tas-żerriegħa falla",
+      "state_update_failed": "Il-kalkolu tal-hash tal-aġġornament tal-istat falla"
+    }
+  }
+}

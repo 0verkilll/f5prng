@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "giới hạn phải lớn hơn không",
+      "nil_hasher": "hasher không thể bằng nil",
+      "seed_hash_failed": "Quá trình tính toán băm hạt giống thất bại",
+      "state_update_failed": "Tính toán băm cập nhật trạng thái thất bại"
+    }
+  }
+}

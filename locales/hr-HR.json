@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "granica mora biti veća od nule",
+      "nil_hasher": "hasher ne može biti nula",
+      "seed_hash_failed": "Izračun hash-a sjemena nije uspio",
+      "state_update_failed": "Izračun hash-a ažuriranja stanja nije uspio"
+    }
+  }
+}

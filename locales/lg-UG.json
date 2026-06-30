@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound erina okuba nga esinga ziro",
+      "nil_hasher": "hasher teyinza kuba nil",
+      "seed_hash_failed": "okubala ensigo hash kulemereddwa",
+      "state_update_failed": "state update hash computation eremereddwa"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "حد باید بزرگتر از صفر باشد",
+      "nil_hasher": "hasher نمی‌تواند تهی باشد",
+      "seed_hash_failed": "محاسبه هش سید ناموفق بود",
+      "state_update_failed": "محاسبه هش به‌روزرسانی وضعیت ناموفق بود"
+    }
+  }
+}

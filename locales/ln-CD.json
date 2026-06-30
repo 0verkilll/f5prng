@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "bound esengeli kozala monene koleka zéro",
+      "nil_hasher": "hasher ekoki kozala nil te",
+      "seed_hash_failed": "calcul ya hash ya mboto elongi te",
+      "state_update_failed": "calcul ya hash ya mise à jour ya état elongi te"
+    }
+  }
+}

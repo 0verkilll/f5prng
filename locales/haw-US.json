@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "pono e ʻoi aku ka palena ma mua o ka ʻole",
+      "nil_hasher": "ʻaʻole hiki ke lilo i nil ka hasher",
+      "seed_hash_failed": "ua hāʻule ka helu ʻana o ka hash hua",
+      "state_update_failed": "ua hāʻule ka helu ʻana o ka hash hōʻano hou o ke kūlana"
+    }
+  }
+}

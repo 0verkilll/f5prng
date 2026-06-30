@@ -1,0 +1,10 @@
+{
+  "f5prng": {
+    "error": {
+      "invalid_bound": "hranice musí být větší než nula",
+      "nil_hasher": "hasher nemůže být nil",
+      "seed_hash_failed": "Výpočet hashu se nezdařil",
+      "state_update_failed": "Výpočet hashové hodnoty aktualizace stavu selhal"
+    }
+  }
+}
